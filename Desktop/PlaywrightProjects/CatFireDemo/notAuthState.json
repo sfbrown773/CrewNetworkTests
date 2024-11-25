@@ -1,0 +1,207 @@
+{
+  "cookies": [
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "value": "b2f221cb450a919354d50929b74827b0e0778f9e2020e8959196714959463071%7C36fd3efe802e4064a09243060ce3805876d29bacf38e5d72535baa220e210a2e",
+      "domain": "crewnetwork.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "value": "https%3A%2F%2Fcrewnetwork.org",
+      "domain": "crewnetwork.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_LNMGT6V0RB",
+      "value": "GS1.1.1732549543.1.0.1732549543.0.0.0",
+      "domain": ".crewnetwork.org",
+      "path": "/",
+      "expires": 1767109543.056406,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.563866821.1732549543",
+      "domain": ".crewnetwork.org",
+      "path": "/",
+      "expires": 1767109543.057188,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1732550443.31523,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1732549543534.937052065425542113",
+      "domain": ".crewnetwork.org",
+      "path": "/",
+      "expires": 1740325543,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "li_sugr",
+      "value": "200407f5-1c8b-4fb9-acf1-b3a87d1ca272",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1740325545.091868,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&b1327883-f017-4035-8095-29466cd0d172\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1764085546.092023,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=TGST03:s=T:r=T:a=T:p=T:g=3376:u=1:x=1:i=1732549544:t=1732635944:v=2:sig=AQFlutXETjaIt4OWGMSrEikQzQUWAcdy\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1732635945.17539,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "personalization_id",
+      "value": "\"v1_3IKYAarmImqQac9/eu+ASQ==\"",
+      "domain": ".twitter.com",
+      "path": "/",
+      "expires": 1767109544.176568,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "muc_ads",
+      "value": "b8aac87d-d6ca-466c-9bc6-8976a59e0752",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1767109544.434583,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "DcD84Vq2ZIY9cLvsQ2xJ5s0Zvequ0EPGPm7FSdf0WIo-1732549544-1.0.1.1-sMf.OR8y9kmwNOjbBHj0DdlyLDaIXYDfAXGhUsDI9P9Vx_vftQP5Ljm7e4kfImA.p2sYIAU3ZBY0vQhkgNIn4Q",
+      "domain": ".t.co",
+      "path": "/",
+      "expires": 1732551344.434716,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSessionUser_2915138",
+      "value": "eyJpZCI6IjJlODcwYWU1LWQzNWEtNTJkNC05ZDI4LWYxNzVhMDdlYjYwYyIsImNyZWF0ZWQiOjE3MzI1NDk1NDQ1MDcsImV4aXN0aW5nIjpmYWxzZX0=",
+      "domain": ".crewnetwork.org",
+      "path": "/",
+      "expires": 1764085544,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_2915138",
+      "value": "eyJpZCI6IjRjMmM4MWIxLTE4NzctNDkzMi04OTdmLWNhOTVjZjc5NzEyNCIsImMiOjE3MzI1NDk1NDQ1MDksInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MX0=",
+      "domain": ".crewnetwork.org",
+      "path": "/",
+      "expires": 1732551344,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQLmWZ1uiFQ5rQAAAZNkAArA8ckxkT9rgwULNrGj7zuzdDMExYxb-3kwcAJZe4cYviod7Rj68pAihA",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1735141544.520514,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQJ3b5P1O8Ri9gAAAZNkAArAwxwXLvbfjvGW3kX16vKr3Ti_2YX4OrgYeKMBKpwczxp5nlDLsfGbvzc4AvI-Pg",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1735141544.520568,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&202411251545446a428af6-c537-4d03-8cc7-063679625cadAQFq16QFv-hdy7jgA5Ypr76_09wZmQEX\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1764085545.884075,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_dd_s",
+      "value": "logs=1&id=11ee4722-ead3-4a74-84d7-542b35d42d28&created=1732549541870&expire=1732550442123&rum=1",
+      "domain": "crewnetwork.org",
+      "path": "/",
+      "expires": 1732550445,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://crewnetwork.org",
+      "localStorage": [
+        {
+          "name": "nextauth.message",
+          "value": "{\"event\":\"session\",\"data\":{\"trigger\":\"getSession\"},\"timestamp\":1732549540}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1732549543520"
+        },
+        {
+          "name": "li_adsId",
+          "value": "6409e1b0-fa36-4c17-8f79-457fffb3523d"
+        }
+      ]
+    }
+  ]
+}

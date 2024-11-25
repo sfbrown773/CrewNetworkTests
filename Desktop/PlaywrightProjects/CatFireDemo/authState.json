@@ -1,0 +1,157 @@
+{
+  "cookies": [
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "value": "9c678b4d0c79d8d089c0730b1cba9bac71c6d9a8c72a2f5e2583284cae4c2f17%7Cba0a0be4b1a36986476cd45ee5ecb799e7532581b185073803d00d4355749b5f",
+      "domain": "crewnetwork.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "value": "https%3A%2F%2Fcrewnetwork.org%2F",
+      "domain": "crewnetwork.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_LNMGT6V0RB",
+      "value": "GS1.1.1732549524.1.0.1732549524.0.0.0",
+      "domain": ".crewnetwork.org",
+      "path": "/",
+      "expires": 1767109524.785351,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1974129361.1732549525",
+      "domain": ".crewnetwork.org",
+      "path": "/",
+      "expires": 1767109524.786522,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "logs=1&id=95b11f01-cac7-4330-aa3d-d5622299f6a4&created=1732549523822&expire=1732550424041&rum=2",
+      "domain": "crewnetwork.org",
+      "path": "/",
+      "expires": 1732550425,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "test_cookie",
+      "value": "CheckForPermission",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1732550425.492148,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1732549525290.107062568102352020",
+      "domain": ".crewnetwork.org",
+      "path": "/",
+      "expires": 1740325525,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ARRAffinity",
+      "value": "906d3dab5434a1979baf692c3c53e3673150f4b531aa757f6896b4f712571a70",
+      "domain": ".sso.crewnetwork.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ARRAffinitySameSite",
+      "value": "906d3dab5434a1979baf692c3c53e3673150f4b531aa757f6896b4f712571a70",
+      "domain": ".sso.crewnetwork.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Antiforgery.9fXoN5jHCXs",
+      "value": "CfDJ8Jyme-6RkQ5Fo5FMU2eE9hupFJ1gMcAc0VKi5e00t1TDY-P4PfM8kQKyPImwazd_G6VwK0PLKmy5lF3yHfI_-_n447btzWV9LJeqnAtsEPQfMJCKaKSjwN7R0hOt2ujVjHBGPSjY5Oxf5dXR0ZZtTIQ",
+      "domain": "sso.crewnetwork.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "idsrv.session",
+      "value": "1C208C7AB67FB5F927836446B3A9A01C",
+      "domain": "sso.crewnetwork.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "idsrv",
+      "value": "CfDJ8Jyme-6RkQ5Fo5FMU2eE9hsxpXsIdWMp9WTLNzr9woiRTtjeSrd4i9VhVR6lpLDx32mEtVC96eOQM7xfTiW5_lFhVLDZJjL-h8ccciO3HEMtvTPn2pT869tugrgE5e9ASVp8-JnWqPW4KCTJR2jtSsKwGXpcZnipxArYc7QRCtl7mg7bW-tq8c3RUbmOV0SGJvtzsqB2WyV3vCEi9-SBhfeEE0e0UQi8DHw16V4FpZ8tkj9ZYSHzzh1Ulr28Px1MG98LBswFPGd1MZOzd2L-iXRMqG0-EEhYOUGIsuEmIX0oF7IfVa5F0r9jGaIXrD-Fq7Xo5lARahqqxs-5xulRQ5E2nv7dlXZ0gjtS-P2_wFfuZMaxfQKZMSXsGXDntzdGyJj35cMRoQc6usLZqo47ircVsDHYDh5Vtmse_0q9YaeGee2jWCNr5a-6uqcJLWvWmAdnewDP9QtwYWhMqkE4nMa9C4pe3OpzHfkIHENdo8GdlLZKD07Pev5kwmUEsHE80HsXvzW7B0wVgvqmrVkZXAktFlW1f3M1nUul1dpLtKR2EIN1GRs9x-W7w262ghskU0fh8u5LHyUlpv68G0g4BX8wdfRYxBgXtjLnebHLWMTLHjlqvc5GTUUy7Vcjsgw-eQ",
+      "domain": "sso.crewnetwork.org",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Secure-next-auth.session-token",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..zNV6hkYf_zqypbIk.uvjspYcDxIttEPC-OfbU8cC1WSepdFbH0tLxZWaVjaugCv78wKz9hoL5wpMNoeK_FBSZWGVOUAjC64xgghjPZMa7Pt_zYf4J7qdp7TUyO29ZbZqs5LMbUKOcbZHg3bQjk0Y9LVjQWMxbS5imxgh-AteJpR0enYGKvGdB8JSNTvErwG9epVgH42oT_KFuU1OBtULVyqEeQ3TQl4S8fVKIZhvGQ4VtFiRRVWwIHrggI2T-6kmmMuRT7yOzMk4o3JT90s5FN3PVS1uCaVDxskfMwvnQOGQORuTcynbCM8-18rFEwUlo44g8YKHZY-0EjvX0j3ftYfxQko20aoZkmbl67hyQBWY_4wGrZpdz35Pv0jpAweLGT8XfI5dJdtNNhT3WOQ2__fr7VI0vmi0-JVzasNYgdonf0nbxyGdHjSJIQGnPWCAqMiBt1YMWeOWaFZR2ME_mUn9bK2tjvTP5K8QjiFm51vo6Cblx7JcWOitZG286pbWeb5Lz5hFTriUAYIoMimyJx6-Gn2vtQ3tC2ltbPnxR-OUlPAyYq1ipwauPeMtSt0zAhHuAAXNe4mJAn1JdJVL51aGJ30CZ0LAcqQYFN93K35zN4N6RVPyNobMON47AxrmgVeGLepdHGX3I0EA6Mamc1gH3AAuW2ooxY8W4eHV2GU5_g0QZd_UNG8FVZ7R1Q5oFS_UcWHlp4LNqJnI7iZK7key8s9uzEsyrC94NtMZ5yiFF19w_zhEnzpFBmzbHf4cin9N-mkNl7fklH2x8gC65SCEkXn2HkJsS5W4BWxzQHMPigUiRHiIOwcC6c2aJ-J1NXKqxFiggquw52V5r1jY6G07B-1zJzbHkRuFIGT_BNmqpHslDT2rKaKQufGYBEG6JalSdicl-UngzUsH3KlWqWRKn5W_Wop7DbqQKyK3fkWtP6EZ3-vRAuLh13jcL3rjN7WUEes1mSzsUoYuJc7PvWtegBm_2AkMWmHurzpPBFqOYskckHTcMt8gbe3QbUIu3Pz_fm3Dk5ZGQE_PXPU6xovL5jsUGUhqNhhXUPal_T93nXHN6CRAAcWzfhFCYXsbnvqcMs5ZWnpJABsrpG17EreO_3U804WfJKHZ0HXV6FGdlAEK5a7vDZZeKF5TU3Czn0aeeWaB8oGEVFfk625jLk_ZZ-z44htImngYiKvPG9LRVXoLphDliGGLOYe2oXAm4ilbo7Aalt22Dt2LE1dvfz7udEa647Nm42WBxeHoE2iIGFh-BhffQCWOaOjpbmk8-a_AbzY5_dsSDR8D2uiOfwLntjKydWSW4XIbwLi4L2QuXn378O9VwT5ow4xoxCYnBmqtAJTn8iFgGQsQlcfLT0u13UZulye44LTTK5S0qqN331qMVXIYeLuy6KXaB9qCC1npsf_0OfixE8y5qH1F6bVb0RblJezUjt7nbVOgUJC5nTKbGWya0W7pNTyrPuWs.awMautc_-ctVIGbDYPtozA",
+      "domain": ".crewnetwork.org",
+      "path": "/",
+      "expires": 1735141530.120654,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://crewnetwork.org",
+      "localStorage": [
+        {
+          "name": "nextauth.message",
+          "value": "{\"event\":\"session\",\"data\":{\"trigger\":\"getSession\"},\"timestamp\":1732549523}"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1732549525282"
+        },
+        {
+          "name": "li_adsId",
+          "value": "8d10decc-1b15-4ad7-b300-e0c57feae92e"
+        }
+      ]
+    }
+  ]
+}
